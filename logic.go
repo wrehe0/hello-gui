@@ -15,3 +15,7 @@ func SumRange(from, to int) int {
 	}
 	return sum
 }
+
+func Multiply(a, b int) int {
+	return a * b
+}
